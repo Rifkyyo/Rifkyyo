@@ -1,16 +1,132 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rifkyyo/Rifkyyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/anime-blue-banner.svg" width="100%" alt="Viana anime blue banner">
 
-Here are some ideas to get you started:
+# 🌌 VIANA
+### `Student Developer` · `Code Explorer` · `Pixel Game Enthusiast`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=900&color=69C9FF&center=true&vCenter=true&width=650&height=55&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+GITHUB;LET'S+BUILD+SOMETHING+COOL!" alt="Typing SVG">
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-38BDF8?style=for-the-badge&labelColor=101B3A" alt="Online">
+  <img src="https://img.shields.io/badge/LEVEL-LEARNING-7DD3FC?style=for-the-badge&labelColor=101B3A" alt="Learning">
+</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/Viana?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb)](https://github.com/Viana)
+[![Profile views](https://komarev.com/ghpvc/?username=Viana&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/Viana)
+
+</div>
+
+---
+
+## 🩵 PLAYER PROFILE
+
+```text
+╔══════════════════════════════════════╗
+║              PLAYER INFO             ║
+╠══════════════════════════════════════╣
+║  NAME       : Viana                  ║
+║  CLASS      : Student Developer      ║
+║  MAIN QUEST : Learn & build projects ║
+║  CURRENT XP : +1 every day           ║
+║  SPECIALTY  : Web development        ║
+╚══════════════════════════════════════╝
+```
+
+- 🎓 Student with an interest in technology and programming.
+- 💻 Learning to turn ideas into useful web applications.
+- 🌱 Currently exploring **PHP, MySQL, HTML, CSS, and JavaScript**.
+- 🧭 Always ready for a new coding quest.
+
+> 「Every expert was once a beginner. Keep going!」
+
+## ⚔️ SKILL INVENTORY
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=7DD3FC)
+![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3730A3?style=for-the-badge&logo=php&logoColor=BFDBFE)
+![MySQL](https://img.shields.io/badge/MySQL-075985?style=for-the-badge&logo=mysql&logoColor=BAE6FD)
+![Git](https://img.shields.io/badge/Git-1E40AF?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0C4A6E?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## 🏰 QUEST LOG — FEATURED PROJECTS
+
+| Project | Quest description | Status |
+|---|---|---|
+| **Jagaraksa** | Platform pelaporan kebencanaan dan pengaduan masyarakat. | 🚧 In progress |
+| **Web Experiments** | Eksperimen UI dan pengembangan website. | 🌱 Learning |
+| **Database Practice** | Latihan query dan pengelolaan database MySQL. | 📘 Training |
+
+> Ganti atau tambahkan tautan project di sini saat repository project sudah siap.
+
+## 📈 GITHUB STATUS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Viana&show_icons=true&theme=tokyonight&bg_color=0B1535&title_color=7DD3FC&icon_color=60A5FA&text_color=DBEAFE&hide_border=true" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viana&layout=compact&theme=tokyonight&bg_color=0B1535&title_color=7DD3FC&text_color=DBEAFE&hide_border=true" alt="Top languages">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Viana&theme=tokyonight&background=0B1535&ring=60A5FA&fire=7DD3FC&currStreakLabel=DBEAFE&hide_border=true" alt="GitHub streak">
+
+</div>
+
+## 🕹️ PIXEL ARCADE
+
+<div align="center">
+
+**A tiny arcade game made for this profile!**
+
+<a href="game/index.html">
+  <img src="https://img.shields.io/badge/▶_PLAY_PIXEL_STAR_DASH-1D4ED8?style=for-the-badge&logo=ゲーム&logoColor=white" alt="Play Pixel Star Dash">
+</a>
+
+[**Open Pixel Star Dash**](game/index.html)
+
+*Collect stars, dodge the falling blocks, and beat your best score.*
+
+</div>
+
+### 🧩 MINI CODE QUIZ
+
+What will this JavaScript print?
+
+```js
+let xp = 10;
+xp += 5;
+console.log(xp * 2);
+```
+
+<details>
+<summary>✨ Reveal answer</summary>
+
+`30` — first 10 + 5 = 15, then 15 × 2 = 30.
+
+</details>
+
+## 🌐 FIND ME
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-1E3A8A?style=for-the-badge&logo=github)](https://github.com/Viana)
+
+<!-- Add your social links here when you want to share them publicly. -->
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/anime-blue-banner.svg" width="75%" alt="Blue pixel night scene">
+
+### 🌙 THANKS FOR VISITING!
+`INSERT COFFEE.exe` ☕  `KEEP CODING.dll` 💙
+
+<sub>Made with curiosity, blue pixels, and lots of learning.</sub>
+
+</div>
