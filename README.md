@@ -2,7 +2,7 @@
 
 
 # VIANA
-### `Student Developer` · `Code Explorer` · `Pixel Game Enthusiast`
+### `Student Developer` · `Code Explorer` · `Pelajar Jawa`
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=900&color=69C9FF&center=true&vCenter=true&width=650&height=55&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+GITHUB;LET'S+BUILD+SOMETHING+COOL!" alt="Typing SVG">
 
