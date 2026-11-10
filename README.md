@@ -67,8 +67,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Viana&show_icons=true&theme=tokyonight&bg_color=0B1535&title_color=7DD3FC&icon_color=60A5FA&text_color=DBEAFE&hide_border=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viana&layout=compact&theme=tokyonight&bg_color=0B1535&title_color=7DD3FC&text_color=DBEAFE&hide_border=true" alt="Top languages">
+
 
 <img width="90%" src="https://streak-stats.demolab.com?user=Viana&theme=tokyonight&background=0B1535&ring=60A5FA&fire=7DD3FC&currStreakLabel=DBEAFE&hide_border=true" alt="GitHub streak">
 
