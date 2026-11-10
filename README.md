@@ -80,9 +80,7 @@
 
 **A tiny arcade game made for this profile!**
 
-<a href="game/index.html">
-  <img src="https://img.shields.io/badge/▶_PLAY_PIXEL_STAR_DASH-1D4ED8?style=for-the-badge&logo=ゲーム&logoColor=white" alt="Play Pixel Star Dash">
-</a>
+
 
 [**Open Pixel Star Dash**](game/index.html)
 
