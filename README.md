@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="assets/anime-blue-banner.svg" width="100%" alt="Viana anime blue banner">
 
-# 🌌 VIANA
+# VIANA
 ### `Student Developer` · `Code Explorer` · `Pixel Game Enthusiast`
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=900&color=69C9FF&center=true&vCenter=true&width=650&height=55&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+GITHUB;LET'S+BUILD+SOMETHING+COOL!" alt="Typing SVG">
@@ -19,7 +18,7 @@
 
 ---
 
-## 🩵 PLAYER PROFILE
+## PLAYER PROFILE
 
 ```text
 ╔══════════════════════════════════════╗
@@ -122,10 +121,9 @@ console.log(xp * 2);
 
 <div align="center">
 
-<img src="assets/anime-blue-banner.svg" width="75%" alt="Blue pixel night scene">
 
-### 🌙 THANKS FOR VISITING!
-`INSERT COFFEE.exe` ☕  `KEEP CODING.dll` 💙
+### HANKS FOR VISITING!
+`INSERT COFFEE.exe` ☕  `KEEP CODING.dll` 
 
 <sub>Made with curiosity, blue pixels, and lots of learning.</sub>
 
