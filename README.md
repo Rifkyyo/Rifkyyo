@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/LEVEL-LEARNING-7DD3FC?style=for-the-badge&labelColor=101B3A" alt="Learning">
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Viana?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb)](https://github.com/Viana)
-[![Profile views](https://komarev.com/ghpvc/?username=Viana&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/Viana)
+[![GitHub followers](https://img.shields.io/github/followers/Rifkyyo?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb)](https://github.com/Rifkyyo)
+[![Profile views](https://komarev.com/ghpvc/?username=Rifkyyo&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/Rifkyyo)
 
 </div>
 
@@ -108,7 +108,7 @@ console.log(xp * 2);
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-1E3A8A?style=for-the-badge&logo=github)](https://github.com/Viana)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-1E3A8A?style=for-the-badge&logo=github)](https://github.com/Rifkyyo)
 
 <!-- Add your social links here when you want to share them publicly. -->
 
