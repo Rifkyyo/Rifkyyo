@@ -33,9 +33,8 @@
 </div>
 
 <br>
-<br>
 
-## 📈 GITHUB STATUS
+# GITHUB STATUS
 
 <div align="center">
 
@@ -45,8 +44,8 @@
 
 </div>
 
-
-## 🌐 FIND ME
+<br>
+# FIND ME
 
 <div align="center">
 
