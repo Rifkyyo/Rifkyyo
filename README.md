@@ -32,10 +32,8 @@
 
 </div>
 
-<br>
 
 
-# FIND ME
 
 <div align="center">
 
