@@ -18,28 +18,7 @@
 
 ---
 
-## PLAYER PROFILE
 
-```text
-╔══════════════════════════════════════╗
-║              PLAYER INFO             ║
-╠══════════════════════════════════════╣
-║  NAME       : Viana                  ║
-║  CLASS      : Student Developer      ║
-║  MAIN QUEST : Learn & build projects ║
-║  CURRENT XP : +1 every day           ║
-║  SPECIALTY  : Web development        ║
-╚══════════════════════════════════════╝
-```
-
-- 🎓 Student with an interest in technology and programming.
-- 💻 Learning to turn ideas into useful web applications.
-- 🌱 Currently exploring **PHP, MySQL, HTML, CSS, and JavaScript**.
-- 🧭 Always ready for a new coding quest.
-
-> 「Every expert was once a beginner. Keep going!」
-
-## ⚔️ SKILL INVENTORY
 
 <div align="center">
 
