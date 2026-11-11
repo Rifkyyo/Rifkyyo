@@ -32,7 +32,8 @@
 
 </div>
 
-
+<br>
+<br>
 
 ## 📈 GITHUB STATUS
 
@@ -60,9 +61,8 @@
 <div align="center">
 
 
-### HANKS FOR VISITING!
+### TANKS FOR VISITING!
 `INSERT COFFEE.exe` ☕  `KEEP CODING.dll` 
 
-<sub>Made with curiosity, blue pixels, and lots of learning.</sub>
 
 </div>
