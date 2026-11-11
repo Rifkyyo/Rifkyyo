@@ -44,36 +44,6 @@
 
 </div>
 
-## 🕹️ PIXEL ARCADE
-
-<div align="center">
-
-**A tiny arcade game made for this profile!**
-
-
-
-[**Open Pixel Star Dash**](game/index.html)
-
-*Collect stars, dodge the falling blocks, and beat your best score.*
-
-</div>
-
-### 🧩 MINI CODE QUIZ
-
-What will this JavaScript print?
-
-```js
-let xp = 10;
-xp += 5;
-console.log(xp * 2);
-```
-
-<details>
-<summary>✨ Reveal answer</summary>
-
-`30` — first 10 + 5 = 15, then 15 × 2 = 30.
-
-</details>
 
 ## 🌐 FIND ME
 
