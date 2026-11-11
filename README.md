@@ -34,20 +34,12 @@
 
 <br>
 
-## GITHUB STATUS
+
+# FIND ME
 
 <div align="center">
 
-
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Viana&theme=tokyonight&background=0B1535&ring=60A5FA&fire=7DD3FC&currStreakLabel=DBEAFE&hide_border=true" alt="GitHub streak">
-
-</div>
-
-
-## FIND ME
-
-<div align="center">
+# FIND ME
 
 [![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-1E3A8A?style=for-the-badge&logo=github)](https://github.com/Rifkyyo)
 
