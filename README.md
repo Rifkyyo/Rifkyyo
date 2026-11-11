@@ -32,15 +32,7 @@
 
 </div>
 
-## 🏰 QUEST LOG — FEATURED PROJECTS
 
-| Project | Quest description | Status |
-|---|---|---|
-| **Jagaraksa** | Platform pelaporan kebencanaan dan pengaduan masyarakat. | 🚧 In progress |
-| **Web Experiments** | Eksperimen UI dan pengembangan website. | 🌱 Learning |
-| **Database Practice** | Latihan query dan pengelolaan database MySQL. | 📘 Training |
-
-> Ganti atau tambahkan tautan project di sini saat repository project sudah siap.
 
 ## 📈 GITHUB STATUS
 
